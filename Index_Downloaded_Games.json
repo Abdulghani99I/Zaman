@@ -1,0 +1,73 @@
+[
+  {
+    "GameName": "IGI1",
+    "FolderName": "IGI1",
+    "FileUrl": "https://example.com/feedingfrenzy.enc",
+    "IconUrl": "https://example.com/icon.png",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "IGI1.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  },
+  {
+    "GameName": "IGI2",
+    "FolderName": "IGI2",
+    "FileUrl": "https://example.com/feedingfrenzy.enc",
+    "IconUrl": "https://example.com/icon.png",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "IGI2.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  },
+  {
+    "GameName": "Alien Shooter",
+    "FolderName": "Alien Shooter",
+    "FileUrl": "https://example.com/feedingfrenzy.enc",
+    "IconUrl": "https://example.com/icon.png",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Alien Shooter.cnn",
+    "Category": "Arcade",
+    "SettingsPath": "dg.exe"
+  },
+  {
+    "GameName": "Chicken Invaders 1",
+    "FolderName": "Chicken Invaders 1",
+    "FileUrl": "https://example.com/igi3.enc",
+    "IconUrl": "https://example.com/igi.png",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Chicken Invaders.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  },
+  {
+    "GameName": "Chicken Invaders 2",
+    "FolderName": "Chicken Invaders 2",
+    "FileUrl": "https://example.com/igi3.enc",
+    "IconUrl": "https://example.com/igi.png",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Chicken Invaders 2.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  },
+  {
+    "GameName": "Chicken Invaders 4",
+    "FolderName": "Chicken Invaders 4",
+    "FileUrl": "https://example.com/igi3.enc",
+    "IconUrl": "https://example.com/igi.png",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Chicken Invaders 4.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "Feeding Frenzy 1",
+    "FolderName": "Feeding Frenzy 1",
+    "FileUrl": "https://example.com/igi3.enc",
+    "IconUrl": "https://example.com/igi.png",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Feeding Frenzy 1.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  }
+]
