@@ -70,4 +70,79 @@
     "Category": "Action",
     "SettingsPath": "dg.exe"
   }
+  ,
+  
+  {
+    "GameName": "Icy Tower 1",
+    "FolderName": "Icy Tower 1",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Icy.Tower.1.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Icy%20Tower.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Icy Tower.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  },
+  {
+    "GameName": "Icy Tower 2",
+    "FolderName": "Icy Tower 2",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Icy.Tower.2.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Icy%20Tower.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Icy Tower 2.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  },
+  {
+    "GameName": "Neighbours 1",
+    "FolderName": "Neighbours From Hell 1",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Neighbours.From.Hell.1.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Neighbours%20From%20Hell.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Bin/Neighbours From Hell 1.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  },
+  {
+    "GameName": "Neighbours 2",
+    "FolderName": "Neighbours From Hell 2",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Neighbours.From.Hell.2.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Chicken%20Invaders.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "bin/Neighbours From Hell 2.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "Desert Storm",
+    "FolderName": "Desert Storm",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part3/Desert.Storm.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Desert%20Storm.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Desert Storm.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "Doulber",
+    "FolderName": "Doulber",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Doulber.zip",
+    "IconUrl": "hhttps://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Doulber.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Doulber.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  }
+   ,
+  {
+    "GameName": "Crazy Chicken",
+    "FolderName": "Crazy Chicken",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Crazy.Chicken.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Crazy%20Chicken.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Crazy Chicken.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  }
 ]
