@@ -145,4 +145,15 @@
     "Category": "Action",
     "SettingsPath": "dg.exe"
   }
+    ,
+  {
+    "GameName": "Beach Head 2002",
+    "FolderName": "Beach Head 2002",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part4/Beach.Head.2002.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Beach%20Head.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "BH2002.cnn",
+    "Category": "Action",
+    "SettingsPath": "dg.exe"
+  }
 ]
