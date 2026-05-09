@@ -6,7 +6,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/IGI1.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "IGI1.cnn",
-    "Category": "Action",
+    "Category": "Shooter",
     "SettingsPath": "dg.exe"
   },
   {
@@ -16,7 +16,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/IGI2.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "IGI2.cnn",
-    "Category": "Action",
+    "Category": "Shooter",
     "SettingsPath": "dg.exe"
   },
   {
@@ -36,7 +36,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Chicken%20Invaders.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Chicken Invaders.cnn",
-    "Category": "Action",
+    "Category": "Arcade",
     "SettingsPath": "dg.exe"
   },
   {
@@ -46,7 +46,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Chicken%20Invaders.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Chicken Invaders 2.cnn",
-    "Category": "Action",
+    "Category": "Arcade",
     "SettingsPath": "dg.exe"
   },
   {
@@ -56,7 +56,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Chicken%20Invaders.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Chicken Invaders 4.cnn",
-    "Category": "Action",
+    "Category": "Arcade",
     "SettingsPath": "dg.exe"
   }
   ,
@@ -67,7 +67,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Feeding%20Frenzy%201.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Feeding Frenzy 1.cnn",
-    "Category": "Action",
+    "Category": "Arcade",
     "SettingsPath": "dg.exe"
   }
   ,
@@ -79,7 +79,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Icy%20Tower.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Icy Tower.cnn",
-    "Category": "Action",
+    "Category": "Arcade",
     "SettingsPath": "dg.exe"
   },
   {
@@ -89,7 +89,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Icy%20Tower.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Icy Tower 2.cnn",
-    "Category": "Action",
+    "Category": "Arcade",
     "SettingsPath": "dg.exe"
   },
   {
@@ -99,7 +99,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Neighbours%20From%20Hell.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Bin/Neighbours From Hell 1.cnn",
-    "Category": "Action",
+    "Category": "Puzzle",
     "SettingsPath": "dg.exe"
   },
   {
@@ -109,7 +109,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Neighbours%20From%20Hell.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "bin/Neighbours From Hell 2.cnn",
-    "Category": "Action",
+    "Category": "Puzzle",
     "SettingsPath": "dg.exe"
   }
   ,
@@ -131,7 +131,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Doulber.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Doulber.cnn",
-    "Category": "Action",
+    "Category": "Adventure",
     "SettingsPath": "dg.exe"
   }
    ,
@@ -142,7 +142,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Abdulghani99I/Zaman/master/Crazy%20Chicken.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Crazy Chicken.cnn",
-    "Category": "Action",
+    "Category": "Arcade",
     "SettingsPath": "dg.exe"
   }
     ,
