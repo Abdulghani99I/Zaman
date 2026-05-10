@@ -116,7 +116,7 @@
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Desert%20Storm.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Desert Storm.cnn",
-    "Category": "Action",
+    "Category": "Shooter",
     "SettingsPath": "dg.exe"
   },
   {
@@ -146,7 +146,7 @@
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Beach%20Head.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "BH2002.cnn",
-    "Category": "Action",
+    "Category": "Shooter",
     "SettingsPath": "dg.exe"
   }
 ]
