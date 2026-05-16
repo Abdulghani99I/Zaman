@@ -454,7 +454,7 @@
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Zumas%20Revenge.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Zumas Revenge.cnn",
-    "Category": "Simple Games",
+    "Category": "Arcade",
     "SettingsPath": "dg.exe"
   }
    ,
@@ -465,7 +465,7 @@
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Half%20Life.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "hl.cnn",
-    "Category": "Simple Games",
+    "Category": "Shooter",
     "SettingsPath": "dg.exe"
   }
 
