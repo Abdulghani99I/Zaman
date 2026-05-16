@@ -204,4 +204,247 @@
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
   }
+  ,
+  {
+    "GameName": "الطبق الطائر",
+    "FolderName": "Flying saucer",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Flying.saucer.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "الطبق الطائر.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "الكرة النطاطة",
+    "FolderName": "bouncy ball",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/bouncy.ball.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "الكرة النطاطة.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "الهروب من الغربان",
+    "FolderName": "Escape from the crows",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Escape.from.the.crows.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "الهروب من الغربان.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "انطلاق الورد",
+    "FolderName": "Rose launch",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Rose.launch.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "انطلاق الورد.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "تجميع صورة",
+    "FolderName": "Image compilation",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Image.compilation.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "تجميع صورة.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "تزحلق دراجة ثلجية",
+    "FolderName": "snowmobile skiing",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/snowmobile.skiing.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": ".cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "تزحلق على الماء 2",
+    "FolderName": "Water skiing 2",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Water.skiing.2.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "تزحلق على الماء 2.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "تماسيح",
+    "FolderName": "crocodiles",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/crocodiles.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "تماسيح.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "تنس طاولة",
+    "FolderName": "Table tennis",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Table.tennis.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "تنس طاولة.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "جولف",
+    "FolderName": "Golf",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Golf.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "جولف.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "ديسكو",
+    "FolderName": "Disco",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Disco.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "ديسكو.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "ذكاء",
+    "FolderName": "intelligence",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/intelligence.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "ذكاء.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "رالى",
+    "FolderName": "Rally",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Rally.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "رالى.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "سرعة الحروف",
+    "FolderName": "Letter speed",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Letter.speed.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "سرعة الحروف.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "صائد البط",
+    "FolderName": "Duck hunter",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Duck.hunter.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "صائد البط.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "صائد الخراف",
+    "FolderName": "Sheep hunter",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Sheep.hunter.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "صائد الخراف.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "صائد الذهب",
+    "FolderName": "gold digger",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/gold.digger.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "صائد الذهب.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "كوكبة حربية",
+    "FolderName": "war constellation",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/war.constellation.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "كوكبة حربية.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "لعبة حربية",
+    "FolderName": "war game",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/war.game.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "لعبة حربية.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "مركبة فضائية",
+    "FolderName": "Spacecraft",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Spacecraft.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "مركبة فضائية.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+  {
+    "GameName": "معبد الفراعنة",
+    "FolderName": "Pharaohs Temple",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Pharaohs.Temple.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "معبد الفراعنة.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+    ,
+  {
+    "GameName": "عصافير فى الماء",
+    "FolderName": "Birds in the water",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Water.skiing.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "عصافير فى الماء.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+
 ]
