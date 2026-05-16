@@ -446,5 +446,27 @@
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
   }
+    ,
+  {
+    "GameName": "Zumas Revenge",
+    "FolderName": "Zumas Revenge",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part8/Zumas.Revenge.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Zumas%20Revenge.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Zumas Revenge.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
+   ,
+  {
+    "GameName": "Half Life",
+    "FolderName": "Half Life",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part8/Half.Life.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Half%20Life.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "hl.cnn",
+    "Category": "Simple Games",
+    "SettingsPath": "dg.exe"
+  }
 
 ]
