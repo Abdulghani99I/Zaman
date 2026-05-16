@@ -468,5 +468,15 @@
     "Category": "Shooter",
     "SettingsPath": "dg.exe"
   }
-
+,
+  {
+    "GameName": "Chicken Invaders 3",
+    "FolderName": "Chicken Invaders 3",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part9/Chicken.Invaders.3.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Feeding%20Frenzy%201.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Chicken Invaders 3.cnn",
+    "Category": "Arcade",
+    "SettingsPath": "dg.exe"
+  }
 ]
