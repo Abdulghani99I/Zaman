@@ -149,4 +149,59 @@
     "Category": "Shooter",
     "SettingsPath": "dg.exe"
   }
+  ,
+   {
+    "GameName": "Feeding Frenzy 2",
+    "FolderName": "Feeding Frenzy 2",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Feeding.Frenzy.2.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Feeding%20Frenzy%202.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Feeding Frenzy 2.cnn",
+    "Category": "Arcade",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+   {
+    "GameName": "Zuma 1",
+    "FolderName": "Zuma 1",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Zuma.1.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Zuma.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Zuma 1.cnn",
+    "Category": "Arcade",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+   {
+    "GameName": "Pocket Tanks 1",
+    "FolderName": "Pocket Tanks 1",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Pocket.Tanks.1.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Pocket%20Tanks.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Pocket Tanks 1.cnn",
+    "Category": "Arcade",
+    "SettingsPath": "dg.exe"
+  }
+  ,
+   {
+    "GameName": "Pocket Tanks 2",
+    "FolderName": "Pocket Tanks 2",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Pocket.Tanks.2.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Pocket%20Tanks.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Pocket Tanks 2.cnn",
+    "Category": "Arcade",
+    "SettingsPath": "dg.exe"
+  }
+    ,
+   {
+    "GameName": "Kurka",
+    "FolderName": "Kurka",
+    "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Kurka.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Kurka.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "Kurka.cnn",
+    "Category": "Arcade",
+    "SettingsPath": "dg.exe"
+  }
 ]
