@@ -482,12 +482,12 @@
 
   ,
   {
-    "GameName": "Trazan",
-    "FolderName": "tarazan",
+    "GameName": "Tarzan",
+    "FolderName": "Tarzan",
     "FileUrl": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part10/Tarzan.zip",
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Trazan.ico",
     "IconPath": "icon.ico",
-    "ExecutablePath": "Trazan.cnn",
+    "ExecutablePath": "tarzan.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
   }
