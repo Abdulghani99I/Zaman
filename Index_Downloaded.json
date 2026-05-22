@@ -491,4 +491,15 @@
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
   }
+    ,
+  {
+    "GameName": "Call Of Duty",
+    "FolderName": "Call Of Duty",
+    "FileUrl": "https://cold3.gofile.io/download/web/f88ea50b-ad41-45a6-a1cf-2cac4147d9d2/CallOfDuty.zip",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/CallOfDuty.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "CoDUOSP.cnn",
+    "Category": "Arcade",
+    "SettingsPath": "dg.exe"
+  }
 ]
