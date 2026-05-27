@@ -2,7 +2,9 @@
   {
     "GameName": "IGI1",
     "FolderName": "IGI1",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/IGI1.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/IGI1.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/IGI1.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "IGI1.cnn",
@@ -12,7 +14,9 @@
   {
     "GameName": "IGI2",
     "FolderName": "IGI2",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part5/IGI2.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part5/IGI2.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/IGI2.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "IGI2.cnn",
@@ -22,7 +26,9 @@
   {
     "GameName": "Alien Shooter",
     "FolderName": "Alien Shooter",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Alien.Shooter.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Alien.Shooter.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Alien.Shooter.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Alien Shooter.cnn",
@@ -32,7 +38,9 @@
   {
     "GameName": "Chicken Invaders 1",
     "FolderName": "Chicken Invaders 1",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Chicken.Invaders.1.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Chicken.Invaders.1.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Chicken%20Invaders.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Chicken Invaders.cnn",
@@ -42,7 +50,9 @@
   {
     "GameName": "Chicken Invaders 2",
     "FolderName": "Chicken Invaders 2",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Chicken.Invaders.2.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Chicken.Invaders.2.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Chicken%20Invaders.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Chicken Invaders 2.cnn",
@@ -52,7 +62,9 @@
   {
     "GameName": "Chicken Invaders 4",
     "FolderName": "Chicken Invaders 4",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Chicken.Invaders.4.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Chicken.Invaders.4.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Chicken%20Invaders.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Chicken Invaders 4.cnn",
@@ -62,7 +74,9 @@
   {
     "GameName": "Feeding Frenzy 1",
     "FolderName": "Feeding Frenzy 1",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Feeding.Frenzy.1.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Feeding.Frenzy.1.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Feeding%20Frenzy%201.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Feeding Frenzy 1.cnn",
@@ -72,7 +86,9 @@
   {
     "GameName": "Icy Tower 1",
     "FolderName": "Icy Tower 1",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Icy.Tower.1.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Icy.Tower.1.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Icy%20Tower.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Icy Tower.cnn",
@@ -82,7 +98,9 @@
   {
     "GameName": "Icy Tower 2",
     "FolderName": "Icy Tower 2",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Icy.Tower.2.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Icy.Tower.2.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Icy%20Tower.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Icy Tower 2.cnn",
@@ -92,7 +110,9 @@
   {
     "GameName": "Neighbours 1",
     "FolderName": "Neighbours From Hell 1",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Neighbours.From.Hell.1.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Neighbours.From.Hell.1.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Neighbours%20From%20Hell.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Bin/Neighbours From Hell 1.cnn",
@@ -102,7 +122,9 @@
   {
     "GameName": "Neighbours 2",
     "FolderName": "Neighbours From Hell 2",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Neighbours.From.Hell.2.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Neighbours.From.Hell.2.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Neighbours%20From%20Hell.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "bin/Neighbours From Hell 2.cnn",
@@ -112,7 +134,9 @@
   {
     "GameName": "Desert Storm",
     "FolderName": "Desert Storm",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part3/Desert.Storm.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part3/Desert.Storm.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Desert%20Storm.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Desert Storm.cnn",
@@ -122,7 +146,9 @@
   {
     "GameName": "Doulber",
     "FolderName": "Doulber",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Doulber.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Doulber.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Doulber.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Doulber.cnn",
@@ -132,7 +158,9 @@
   {
     "GameName": "Crazy Chicken",
     "FolderName": "Crazy Chicken",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Crazy.Chicken.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part/Crazy.Chicken.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Crazy%20Chicken.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Crazy Chicken.cnn",
@@ -142,366 +170,396 @@
   {
     "GameName": "Beach Head 2002",
     "FolderName": "Beach Head 2002",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part4/Beach.Head.2002.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part4/Beach.Head.2002.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Beach%20Head.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "BH2002.cnn",
     "Category": "Shooter",
     "SettingsPath": "dg.exe"
-  }
-  ,
-   {
+  },
+  {
     "GameName": "Feeding Frenzy 2",
     "FolderName": "Feeding Frenzy 2",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Feeding.Frenzy.2.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Feeding.Frenzy.2.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Feeding%20Frenzy%202.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Feeding Frenzy 2.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
-  }
-  ,
-   {
+  },
+  {
     "GameName": "Zuma 1",
     "FolderName": "Zuma 1",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Zuma.1.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Zuma.1.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Zuma.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Zuma 1.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
-  }
-  ,
-   {
+  },
+  {
     "GameName": "Pocket Tanks 1",
     "FolderName": "Pocket Tanks 1",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Pocket.Tanks.1.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Pocket.Tanks.1.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Pocket%20Tanks.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Pocket Tanks 1.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
-  }
-  ,
-   {
+  },
+  {
     "GameName": "Pocket Tanks 2",
     "FolderName": "Pocket Tanks 2",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Pocket.Tanks.2.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Pocket.Tanks.2.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Pocket%20Tanks.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Pocket Tanks 2.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
-  }
-    ,
-   {
+  },
+  {
     "GameName": "Kurka",
     "FolderName": "Kurka",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Kurka.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part6/Kurka.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Kurka.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Kurka.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "الطبق الطائر",
     "FolderName": "الطبق الطائر",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Flying.saucer.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Flying.saucer.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "الطبق الطائر.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "الكرة النطاطة",
     "FolderName": "الكرة النطاطة",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/bouncy.ball.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/bouncy.ball.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "الكرة النطاطة.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "الهروب من الغربان",
     "FolderName": "الهروب من الغربان",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Escape.from.the.crows.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Escape.from.the.crows.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "الهروب من الغربان.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "انطلاق الورد",
     "FolderName": "انطلاق الورد",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Rose.launch.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Rose.launch.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "انطلاق الورد.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "تجميع صورة",
     "FolderName": "تجميع صورة",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Image.compilation.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Image.compilation.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "تجميع صورة.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "تزحلق دراجة ثلجية",
     "FolderName": "تزحلق دراجة ثلجية",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/snowmobile.skiing.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/snowmobile.skiing.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": ".cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "تزحلق على الماء 2",
     "FolderName": "تزحلق على الماء 2",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Water.skiing.2.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Water.skiing.2.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "تزحلق على الماء 2.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "تماسيح",
     "FolderName": "تماسيح",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/crocodiles.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/crocodiles.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "تماسيح.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "تنس طاولة",
     "FolderName": "تنس طاولة",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Table.tennis.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Table.tennis.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "تنس طاولة.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "جولف",
     "FolderName": "جولف",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Golf.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Golf.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "جولف.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "ديسكو",
     "FolderName": "ديسكو",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Disco.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Disco.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "ديسكو.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "ذكاء",
     "FolderName": "ذكاء",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/intelligence.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/intelligence.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "ذكاء.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "رالى",
     "FolderName": "رالى",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Rally.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Rally.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "رالى.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "سرعة الحروف",
     "FolderName": "سرعة الحروف",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Letter.speed.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Letter.speed.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "سرعة الحروف.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "صائد البط",
     "FolderName": "صائد البط",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Duck.hunter.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Duck.hunter.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "صائد البط.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "صائد الخراف",
     "FolderName": "صائد الخراف",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Sheep.hunter.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Sheep.hunter.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "صائد الخراف.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "صائد الذهب",
     "FolderName": "صائد الذهب",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/gold.digger.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/gold.digger.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "صائد الذهب.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "كوكبة حربية",
     "FolderName": "كوكبة حربية",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/war.constellation.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/war.constellation.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "كوكبة حربية.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "لعبة حربية",
     "FolderName": "لعبة حربية",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/war.game.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/war.game.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "لعبة حربية.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "مركبة فضائية",
     "FolderName": "مركبة فضائية",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Spacecraft.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Spacecraft.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "مركبة فضائية.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-  ,
+  },
   {
     "GameName": "معبد الفراعنة",
     "FolderName": "معبد الفراعنة",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Pharaohs.Temple.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Pharaohs.Temple.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "معبد الفراعنة.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-    ,
+  },
   {
     "GameName": "تزحلق على الماء",
     "FolderName": "تزحلق على الماء",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Water.skiing.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part7/Water.skiing.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "تزحلق على الماء.cnn",
     "Category": "Simple Games",
     "SettingsPath": "dg.exe"
-  }
-    ,
+  },
   {
     "GameName": "Zumas Revenge",
     "FolderName": "Zumas Revenge",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part8/Zumas.Revenge.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part8/Zumas.Revenge.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Zumas%20Revenge.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Zumas Revenge.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
-  }
-   ,
+  },
   {
     "GameName": "Half Life",
     "FolderName": "Half Life",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part8/Half.Life.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part8/Half.Life.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Half%20Life.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "hl.cnn",
     "Category": "Shooter",
     "SettingsPath": "dg.exe"
-  }
-,
+  },
   {
     "GameName": "Chicken Invaders 3",
     "FolderName": "Chicken Invaders 3",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part9/Chicken.Invaders.3.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part9/Chicken.Invaders.3.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Chicken%20Invaders.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Chicken Invaders 3.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
-  }
-
-  ,
+  },
   {
     "GameName": "Tarzan",
     "FolderName": "Tarzan",
-    "FilePartsUrls": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part10/Tarzan.zip",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part10/Tarzan.zip"
+    ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Trazan.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "tarzan.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
-  }
-    ,
+  },
   {
     "GameName": "Call Of Duty",
     "FolderName": "Call Of Duty",
-    "FilePartsUrls": 
-    [
+    "FilePartsUrls": [
       "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part11/Call.Of.Duty.7z.001",
       "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part11/Call.Of.Duty.7z.002",
       "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part11/Call.Of.Duty.7z.003"
     ],
-      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/CallOfDuty.ico",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/CallOfDuty.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "CoDUOSP.cnn",
     "Category": "Shooter",
