@@ -560,7 +560,7 @@
       "https://github.com/Abdulghani99I/Zaman/releases/download/untagged-03bf6e50e908f2ade4d2/Tarzan.7z.001",
       "https://github.com/Abdulghani99I/Zaman/releases/download/untagged-03bf6e50e908f2ade4d2/Tarzan.7z.002"      
     ],
-    "IconUrl": "",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/CallOfDuty.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "tarzan.cnn",
     "Category": "Shooter",
