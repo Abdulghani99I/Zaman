@@ -564,5 +564,18 @@
     "ExecutablePath": "CoDUOSP.cnn",
     "Category": "Shooter",
     "SettingsPath": "dg.exe"
+  },
+  {
+    "GameName": "Tarzan",
+    "FolderName": "Tarzan",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/untagged-03bf6e50e908f2ade4d2/Tarzan.7z.001",
+      "https://github.com/Abdulghani99I/Zaman/releases/download/untagged-03bf6e50e908f2ade4d2/Tarzan.7z.002"      
+    ],
+    "IconUrl": "",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "CoDUOSP.cnn",
+    "Category": "Shooter",
+    "SettingsPath": "dg.exe"
   }
 ]
