@@ -541,28 +541,15 @@
   },
   {
     "GameName": "Call Of Duty",
-    "FolderName": "Call Of Duty/Call Of Duty",
+    "FolderName": "Call Of Duty",
     "FilePartsUrls": [
-      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part11/Call.Of.Duty.7z.001",
-      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part11/Call.Of.Duty.7z.002",
-      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part11/Call.Of.Duty.7z.003"
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part14/Call.Of.Duty.7z.001",
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part14/Call.Of.Duty.7z.002",
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part14/Call.Of.Duty.7z.003"      
     ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/CallOfDuty.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "CoDUOSP.cnn",
-    "Category": "Shooter",
-    "SettingsPath": "dg.exe"
-  },
-  {
-    "GameName": "Tarzan",
-    "FolderName": "Tarzan",
-    "FilePartsUrls": [
-      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part12/Tarzan.7z.001",
-      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part12/Tarzan.7z.002"      
-    ],
-    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/CallOfDuty.ico",
-    "IconPath": "icon.ico",
-    "ExecutablePath": "tarzan.cnn",
     "Category": "Shooter",
     "SettingsPath": "dg.exe"
   }
