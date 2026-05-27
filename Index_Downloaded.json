@@ -78,7 +78,7 @@
       "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part1/Feeding.Frenzy.1.zip"
     ],
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Feeding%20Frenzy%201.ico",
-    "IconPath": "icon.ico",
+    "IconPath": "icon.ico",f
     "ExecutablePath": "Feeding Frenzy 1.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
@@ -536,18 +536,6 @@
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Chicken%20Invaders.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "Chicken Invaders 3.cnn",
-    "Category": "Arcade",
-    "SettingsPath": "dg.exe"
-  },
-  {
-    "GameName": "Tarzan",
-    "FolderName": "Tarzan",
-    "FilePartsUrls": [
-      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part10/Tarzan.zip"
-    ],
-    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Trazan.ico",
-    "IconPath": "icon.ico",
-    "ExecutablePath": "tarzan.cnn",
     "Category": "Arcade",
     "SettingsPath": "dg.exe"
   },
