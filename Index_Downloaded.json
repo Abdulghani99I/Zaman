@@ -552,5 +552,17 @@
     "ExecutablePath": "CoDUOSP.cnn",
     "Category": "Shooter",
     "SettingsPath": "dg.exe"
+  },
+   {
+    "GameName": "Desert Storm II",
+    "FolderName": "Conflict Desert Storm II",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part15/Conflict.Desert.Storm.II.zip"      
+    ],
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Conflict%20Desert%20Storm%20II.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "CDS II.cnn",
+    "Category": "Shooter",
+    "SettingsPath": "dg.exe"
   }
 ]
