@@ -622,7 +622,7 @@
     "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Black.ico",
     "IconPath": "icon.ico",
     "ExecutablePath": "RunGameVBS/RunGamePS2.cnn",
-    "Category": "Arcade",
+    "Category": "Shooter",
     "SettingsPath": "dg.exe"
   }
 ]
