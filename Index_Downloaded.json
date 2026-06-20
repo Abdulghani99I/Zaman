@@ -615,7 +615,7 @@
   {
     "GameName": "Black",
     "FolderName": "Black",
-    "Platform": "pc",
+    "Platform": "ps2",
     "FilePartsUrls": [
       "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part19/Black.7z"
     ],
@@ -624,5 +624,18 @@
     "ExecutablePath": "RunGameVBS/RunGamePS2.cnn",
     "Category": "Shooter",
     "SettingsPath": "dg.exe"
+  },
+    {
+    "GameName": "Rise to Honor",
+    "FolderName": "Rise to Honor",
+    "Platform": "ps2",
+    "FilePartsUrls": [
+      "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part20/Rise.to.Honor.7z"
+    ],
+    "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Rise%20to%20Honor.ico",
+    "IconPath": "icon.ico",
+    "ExecutablePath": "RunGamePS2.vbs",
+    "Category": "Shooter",
+    "SettingsPath": ""
   }
 ]
