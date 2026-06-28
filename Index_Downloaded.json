@@ -10,7 +10,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "IGI1.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/IGI1.ico",
@@ -30,7 +30,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "IGI2.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/IGI2.ico",
@@ -50,7 +50,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Alien Shooter.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Alien.Shooter.ico",
@@ -70,7 +70,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Chicken Invaders.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Chicken%20Invaders.ico",
@@ -90,7 +90,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Chicken Invaders 2.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Chicken%20Invaders.ico",
@@ -110,7 +110,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Chicken Invaders 4.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Chicken%20Invaders.ico",
@@ -130,7 +130,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Feeding Frenzy 1.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Feeding%20Frenzy%201.ico",
@@ -150,7 +150,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Icy Tower.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Icy%20Tower.ico",
@@ -170,7 +170,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Icy Tower 2.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Icy%20Tower.ico",
@@ -190,7 +190,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Bin/Neighbours From Hell 1.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Neighbours%20From%20Hell.ico",
@@ -210,7 +210,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "bin/Neighbours From Hell 2.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Neighbours%20From%20Hell.ico",
@@ -230,7 +230,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Desert Storm.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Desert%20Storm.ico",
@@ -250,7 +250,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Doulber.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Doulber.ico",
@@ -270,7 +270,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Crazy Chicken.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Crazy%20Chicken.ico",
@@ -290,7 +290,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "BH2002.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Beach%20Head.ico",
@@ -310,7 +310,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Feeding Frenzy 2.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Feeding%20Frenzy%202.ico",
@@ -330,7 +330,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Zuma 1.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Zuma.ico",
@@ -350,7 +350,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Pocket Tanks 1.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Pocket%20Tanks.ico",
@@ -370,7 +370,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Pocket Tanks 2.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Pocket%20Tanks.ico",
@@ -390,7 +390,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Kurka.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Kurka.ico",
@@ -410,7 +410,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "الطبق الطائر.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -430,7 +430,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "الكرة النطاطة.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -450,7 +450,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "الهروب من الغربان.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -470,7 +470,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "انطلاق الورد.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -490,7 +490,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "تجميع صورة.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -510,7 +510,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": ".cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -530,7 +530,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "تزحلق على الماء 2.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -550,7 +550,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "تماسيح.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -570,7 +570,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "تنس طالة.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -590,7 +590,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "جولف.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -610,7 +610,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "ديسكو.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -630,7 +630,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "ذكاء.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -650,7 +650,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "رالى.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -670,7 +670,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "سرعة الحروف.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -690,7 +690,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "صائد البط.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -710,7 +710,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "صائد الخراف.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -730,7 +730,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "صائد الذهب.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -750,7 +750,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "كوكبة حربية.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -770,7 +770,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "لعبة حربية.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -790,7 +790,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "مركبة فضائية.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -810,7 +810,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "معبد الفراعنة.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -830,7 +830,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "تزحلق على الماء.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/ZamanGames.ico",
@@ -850,7 +850,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Zumas Revenge.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Zumas%20Revenge.ico",
@@ -870,7 +870,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "hl.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Half%20Life.ico",
@@ -890,7 +890,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "Chicken Invaders 3.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Chicken%20Invaders.ico",
@@ -910,7 +910,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "CoDUOSP.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/CallOfDuty.ico",
@@ -932,7 +932,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "CDS II.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Conflict%20Desert%20Storm%20II.ico",
@@ -952,7 +952,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "RunGameVBS/RunGamePS2.cnn",
       "SettingsPath": "dg.exe",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Black.ico",
@@ -972,7 +972,7 @@
       "BaseInstallationPath": "",
       "ExecutablePath": "RunGamePS2.vbs",
       "SettingsPath": "",
-      "LocalIconPath": ""
+      "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Rise%20to%20Honor.ico",
