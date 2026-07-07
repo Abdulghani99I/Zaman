@@ -943,12 +943,13 @@
   },
 
 
+[
   {
     "GameID": "Rise to Honor-1",
     "GameName": "Rise to Honor",
     "FolderName": "Rise to Honor",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Action",
     "RequiredSpaceMB": 2200,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -983,14 +984,13 @@
         ""
       ]
     }
-  }
-,
+  },
   {
     "GameID": "God-Of-War-1-PS2-1",
     "GameName": "God Of War",
     "FolderName": "God-Of-War-1-PS2",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Action",
     "RequiredSpaceMB": 6940,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -1008,14 +1008,13 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God-Of-War-1-PS2.7z.005"
       ]
     }
-  }
-,
+  },
   {
     "GameID": "God of War II-PS2-1",
     "GameName": "God Of War II",
     "FolderName": "God of War II",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Action",
     "RequiredSpaceMB": 6060,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -1033,8 +1032,7 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God.of.War.II.7z.005"
       ]
     }
-  }
-,
+  },
   {
     "GameID": "Call of Duty 3 (USA)-1",
     "GameName": "Call of Duty 3",
@@ -1055,14 +1053,13 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Call.of.Duty.3.USA.7z.002"
       ]
     }
-  }
-,
+  },
   {
     "GameID": "Disney's Tarzan-1",
     "GameName": "Tarzan",
     "FolderName": "Disney's Tarzan",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Platformer",
     "RequiredSpaceMB": 731,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -1076,8 +1073,7 @@
         "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Disney's%20Tarzan.ico"
       ]
     }
-  }
-,
+  },
   {
     "GameID": "SOCOM 3-1",
     "GameName": "SOCOM 3",
@@ -1099,14 +1095,13 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/SOCOM.3.7z.003"
       ]
     }
-  }
-,
+  },
   {
     "GameID": "Resident Evil 4 (USA)PS2-1",
     "GameName": "Resident Evil 4",
     "FolderName": "Resident Evil 4 (USA)",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Action",
     "RequiredSpaceMB": 3380,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -1122,14 +1117,13 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Resident.Evil.4.USA.7z.003"
       ]
     }
-  }
-,
+  },
   {
     "GameID": "Bully-PS2-1",
     "GameName": "Bully",
     "FolderName": "Bully",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Action",
     "RequiredSpaceMB": 2400,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -1144,14 +1138,13 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Bully.7z.002"
       ]
     }
-  }
-,
+  },
   {
     "GameID": "DownhillDomination-PS2-1",
     "GameName": "Downhill",
     "FolderName": "DownhillDominationPS2",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Racing",
     "RequiredSpaceMB": 2270,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -1166,15 +1159,13 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/DownhillDominationPS2.7z.002"
       ]
     }
-  }
-,
-
+  },
   {
     "GameID": "Tekken 5-PS2-1",
     "GameName": "Tekken 5",
     "FolderName": "Tekken 5",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Fighting",
     "RequiredSpaceMB": 4030,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -1190,15 +1181,13 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Tekken.5.7z.003"
       ]
     }
-  }
-,
-
+  },
   {
     "GameID": "Grand Theft Auto - San Andreas (Indonesian v6)-PS2-1",
     "GameName": "San Andreas",
     "FolderName": "Grand Theft Auto - San Andreas (Indonesian v6)",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Action",
     "RequiredSpaceMB": 2270,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -1213,16 +1202,13 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Grand.Theft.Auto.-.San.Andreas.Indonesian.v6.7z.002"
       ]
     }
-  }
-
-,
-
+  },
   {
     "GameID": "Ben 10-PS2-1",
     "GameName": "Ben 10",
     "FolderName": "Ben 10",
     "Platform": "PS2",
-    "Category": "Shooter",
+    "Category": "Action",
     "RequiredSpaceMB": 991,
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
@@ -1236,10 +1222,7 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Ben.10.7z"
       ]
     }
-  }
-
-,
-
+  },
   {
     "GameID": "CallofDuty-Finest Hour-PS2-1",
     "GameName": "Finest Hour",
@@ -1260,7 +1243,6 @@
       ]
     }
   }
-
-
 ]
 
+]
