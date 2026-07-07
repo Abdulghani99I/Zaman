@@ -941,44 +941,326 @@
       ]
     }
   },
+
+
   {
-    "GameID": "black",
-    "GameName": "Black",
-    "FolderName": "Black",
-    "Platform": "PS2",
-    "Category": "Shooter",
-    "RequiredSpaceMB": 2000,
-    "Paths": {
-      "BaseInstallationPath": "",
-      "ExecutablePath": "RunGameVBS/RunGamePS2.cnn",
-      "SettingsPath": "dg.exe",
-      "LocalIconPath": "icon.ico"
-    },
-    "Urls": {
-      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Black.ico",
-      "FilePartsUrls": [
-        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part19/Black.7z"
-      ]
-    }
-  },
-  {
-    "GameID": "rise_to_honor",
+    "GameID": "Rise to Honor-1",
     "GameName": "Rise to Honor",
     "FolderName": "Rise to Honor",
     "Platform": "PS2",
     "Category": "Shooter",
-    "RequiredSpaceMB": 2000,
+    "RequiredSpaceMB": 2200,
     "Paths": {
-      "BaseInstallationPath": "",
-      "ExecutablePath": "RunGamePS2.vbs",
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
       "SettingsPath": "",
       "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Rise%20to%20Honor.ico",
       "FilePartsUrls": [
-        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part20/Rise.to.Honor.7z"
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Rise.to.Honor.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Rise.to.Honor.7z.002"
+      ]
+    }
+  },
+  {
+    "GameID": "Black-1",
+    "GameName": "Black",
+    "FolderName": "Black",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 1150,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Black.7z",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Black.ico",
+      "FilePartsUrls": [
+        ""
       ]
     }
   }
+,
+  {
+    "GameID": "God-Of-War-1-PS2-1",
+    "GameName": "God Of War",
+    "FolderName": "God-Of-War-1-PS2",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 6940,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/God%20of%20War.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God-Of-War-1-PS2.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God-Of-War-1-PS2.7z.002",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God-Of-War-1-PS2.7z.003",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God-Of-War-1-PS2.7z.004",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God-Of-War-1-PS2.7z.005"
+      ]
+    }
+  }
+,
+  {
+    "GameID": "God of War II-PS2-1",
+    "GameName": "God Of War II",
+    "FolderName": "God of War II",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 6060,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/GodOfWar2.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God.of.War.II.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God.of.War.II.7z.002",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God.of.War.II.7z.003",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God.of.War.II.7z.004",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/God.of.War.II.7z.005"
+      ]
+    }
+  }
+,
+  {
+    "GameID": "Call of Duty 3 (USA)-1",
+    "GameName": "Call of Duty 3",
+    "FolderName": "Call of Duty 3 (USA)",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 2530,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/CallOfDuty.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Call.of.Duty.3.USA.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Call.of.Duty.3.USA.7z.002"
+      ]
+    }
+  }
+,
+  {
+    "GameID": "Disney's Tarzan-1",
+    "GameName": "Tarzan",
+    "FolderName": "Disney's Tarzan",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 731,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Disney's%20Tarzan.ico",
+      "FilePartsUrls": [
+        "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Disney's%20Tarzan.ico"
+      ]
+    }
+  }
+,
+  {
+    "GameID": "SOCOM 3-1",
+    "GameName": "SOCOM 3",
+    "FolderName": "SOCOM 3",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 3120,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/SOCOM%203.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/SOCOM.3.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/SOCOM.3.7z.002",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/SOCOM.3.7z.003"
+      ]
+    }
+  }
+,
+  {
+    "GameID": "Resident Evil 4 (USA)PS2-1",
+    "GameName": "Resident Evil 4",
+    "FolderName": "Resident Evil 4 (USA)",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 3380,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Resident%20Evil%204.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Resident.Evil.4.USA.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Resident.Evil.4.USA.7z.002",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Resident.Evil.4.USA.7z.003"
+      ]
+    }
+  }
+,
+  {
+    "GameID": "Bully-PS2-1",
+    "GameName": "Bully",
+    "FolderName": "Bully",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 2400,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/bully.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Bully.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Bully.7z.002"
+      ]
+    }
+  }
+,
+  {
+    "GameID": "DownhillDomination-PS2-1",
+    "GameName": "Downhill",
+    "FolderName": "DownhillDominationPS2",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 2270,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Downhill%20Domination.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/DownhillDominationPS2.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/DownhillDominationPS2.7z.002"
+      ]
+    }
+  }
+,
+
+  {
+    "GameID": "Tekken 5-PS2-1",
+    "GameName": "Tekken 5",
+    "FolderName": "Tekken 5",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 4030,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Tekken5.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Tekken.5.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Tekken.5.7z.002",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Tekken.5.7z.003"
+      ]
+    }
+  }
+,
+
+  {
+    "GameID": "Grand Theft Auto - San Andreas (Indonesian v6)-PS2-1",
+    "GameName": "San Andreas",
+    "FolderName": "Grand Theft Auto - San Andreas (Indonesian v6)",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 2270,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/San%20Andreas.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Grand.Theft.Auto.-.San.Andreas.Indonesian.v6.7z.001",
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Grand.Theft.Auto.-.San.Andreas.Indonesian.v6.7z.002"
+      ]
+    }
+  }
+
+,
+
+  {
+    "GameID": "Ben 10-PS2-1",
+    "GameName": "Ben 10",
+    "FolderName": "Ben 10",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 991,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Bin%2010.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Ben.10.7z"
+      ]
+    }
+  }
+
+,
+
+  {
+    "GameID": "CallofDuty-Finest Hour-PS2-1",
+    "GameName": "Finest Hour",
+    "FolderName": "CallofDuty-Finest Hour-PS2",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 1530,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Call%20of%20Duty%20Finest%20Hour.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/CallofDuty-Finest.Hour-PS2.7z.001"
+      ]
+    }
+  }
+
+
 ]
+
