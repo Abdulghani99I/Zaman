@@ -973,13 +973,13 @@
     "Paths": {
       "BaseInstallationPath": "G:\\GamesPS2",
       "ExecutablePath": "RunGamePS2.cnn",
-      "SettingsPath": "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Black.7z",
+      "SettingsPath": "",
       "LocalIconPath": "icon.ico"
     },
     "Urls": {
       "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/Black.ico",
       "FilePartsUrls": [
-        ""
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/Black.7z"
       ]
     }
   },
@@ -1240,5 +1240,27 @@
         "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part21/CallofDuty-Finest.Hour-PS2.7z.001"
       ]
     }
+  },
+
+  {
+    "GameID": "PES 2014-PS2-1",
+    "GameName": "PES 2014",
+    "FolderName": "PES 2014-PS2",
+    "Platform": "PS2",
+    "Category": "Shooter",
+    "RequiredSpaceMB": 1220,
+    "Paths": {
+      "BaseInstallationPath": "G:\\GamesPS2",
+      "ExecutablePath": "RunGamePS2.cnn",
+      "SettingsPath": "",
+      "LocalIconPath": "icon.ico"
+    },
+    "Urls": {
+      "IconUrl": "https://cdn.jsdelivr.net/gh/Abdulghani99I/Zaman@master/PES%202014.ico",
+      "FilePartsUrls": [
+        "https://github.com/Abdulghani99I/Zaman/releases/download/Collection_Part22/PES.2014-PS2.7z"
+      ]
+    }
   }
+  
 ]
